@@ -4,3 +4,6 @@ echo "my second code file"
 
 echo "change in master branch"
 
+echo "change in master branch"
+echo "change in master branch"
+echo "change in master branch"
