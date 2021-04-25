@@ -1,5 +1,3 @@
 #!/bin/bash
 
 echo "code file 03"
-echo "code file 03"
-echo "code file 03"
