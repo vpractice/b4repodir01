@@ -2,8 +2,11 @@
 
 echo "my second code file"
 
+<<<<<<< HEAD
 echo "change in master branch"
 
 echo "change in master branch"
 echo "change in master branch"
 echo "change in master branch"
+=======
+>>>>>>> parent of 396918b (files modified in master)
